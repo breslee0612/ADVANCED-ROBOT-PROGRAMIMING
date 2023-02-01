@@ -1,1 +1,1 @@
-GIAHUY:0.tcp.ap.ngrok.io:15075:0:
+GIAHUY:0.tcp.ap.ngrok.io:15075:0:0
